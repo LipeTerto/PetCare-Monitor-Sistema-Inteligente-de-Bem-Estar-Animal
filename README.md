@@ -28,13 +28,13 @@ ocorra junto com uma temperatura anormal.
 
 ## Componentes do projeto:
 
- Arduino Uno R3
- Sensor de temperatura TMP36
- Sensor de movimento PIR
- LED RGB
- Resistores (220Ω)
- Buzzer (Piezo)
- Protoboard
- Jumpers (fios de conexão
+- Arduino Uno R3
+- Sensor de temperatura TMP36
+- Sensor de movimento PIR
+- LED RGB
+- Resistores (220Ω)
+- Buzzer (Piezo)
+- Protoboard
+- Jumpers (fios de conexão)
 
 <img width="1519" height="732" alt="image" src="https://github.com/user-attachments/assets/e7bf531a-a64a-4504-b707-7fcfb35152be" />
